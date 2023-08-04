@@ -5,8 +5,8 @@
 
 ## Level 1
 ## Level 2
-Problem | Solution
-------- | --------
-[<span style="font-size:larger;">Vowels First</span>](https://leetcode.com/problems/contains-duplicate/) | [<span style="font-size:larger;">✔️</span>](https://github.com/jeansuarex/codingame/blob/main/Level%20-%202/solutions/vowelsfirst.py)
+<sub>Problem</sub> | <sub>Solutions</sub> 
+---- | ----
+<sub>[Vowels First]([https://leetcode.com/problems/contains-duplicate/](https://www.codingame.com/ide/demo/678960e7a53647e7e1bcffbca36f4babaac8c1)https://www.codingame.com/ide/demo/678960e7a53647e7e1bcffbca36f4babaac8c1)</sub> | <sub><div align='center'>[✔️](https://github.com/jeansuarex/codingame/blob/54fe72d8af8408af7f54725b105bf517ccd27845/Level%20-%202/solutions/vowelsfirst.py)</div></sub> 
 
 ## Level 3
