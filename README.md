@@ -7,6 +7,6 @@
 ## Level 2
 <sub>Problem</sub> | <sub>.idea</sub>
 ---- | ---- 
-<sub>[Vowels First]([https://leetcode.com/problems/contains-duplicate/](https://github.com/jeansuarex/codingame/blob/main/Level%20-%202/solutions/vowelsfirst.py)https://github.com/jeansuarex/codingame/blob/main/Level%20-%202/solutions/vowelsfirst.py)</sub> | <sub><div align='center'>[Solution](https://github.com/jeansuarex/codingame/blob/main/Level%20-%202/solutions/vowelsfirst.py)</div></sub>
+<sub>[Vowels First](https://leetcode.com/problems/contains-duplicate/)</sub> | <sub><div align='center'>[Solution](https://github.com/jeansuarex/codingame/blob/main/Level%20-%202/solutions/vowelsfirst.py)</div></sub>
 
 ## Level 3
