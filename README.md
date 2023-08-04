@@ -5,8 +5,8 @@
 
 ## Level 1
 ## Level 2
-<sub>Problem</sub> | <sub>.idea</sub>
----- | ---- 
-<sub>[Vowels First](https://leetcode.com/problems/contains-duplicate/)</sub> | <sub><div align='center'>[Solution](https://github.com/jeansuarex/codingame/blob/main/Level%20-%202/solutions/vowelsfirst.py)</div></sub>
+Problem | Solution
+------- | --------
+[<span style="font-size:larger;">Vowels First</span>](https://leetcode.com/problems/contains-duplicate/) | [<span style="font-size:larger;">Solution</span>](https://github.com/jeansuarex/codingame/blob/main/Level%20-%202/solutions/vowelsfirst.py)
 
 ## Level 3
