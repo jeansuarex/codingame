@@ -1,4 +1,4 @@
-# Puzzles ![Puzzle](https://cdn.pixabay.com/photo/2013/07/13/10/21/rubiks-cube-157058_1280.png)
+# Puzzles <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Rubik%27s_cube_almost_solved.svg" alt="Puzzles" width="200px" height="200px" />
 >This repository has been created based on problem solutions from [codingame.com](https://www.codingame.com). I managed to find the problems using [codingame.tools](https://codingame.tools). The main idea is to categorize problems that I consider easy, medium, and difficult for all those people who want to learn programming by solving puzzles or those who simply want to improve their programming skills.
 
 ## LEVELS
