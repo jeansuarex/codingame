@@ -6,10 +6,14 @@
 | Problem | Solution |
 | ------- | --------- |
 | [Christmas Sales](https://www.codingame.com/ide/demo/72867390141e49c5a87da2363db8f5adcdd454) |  &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%201/solutions/chrissales.py)
+| [Clash Royal Match](https://www.codingame.com/ide/demo/1007302d4e25b4b9e6638e4c62e3eb60dbaf70d) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%201/solutions/clashroyalmatch.py)
+| [To-Do List](https://www.codingame.com/ide/demo/968021607d0ed35e785d9d07b9a53ca351e76b) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%201/solutions/todolist.py)
 ## Medium
 | Problem | Solution |
 | ------- | --------- |
-| [Vowels First](https://www.codingame.com/ide/demo/678960e7a53647e7e1bcffbca36f4babaac8c1) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/54fe72d8af8408af7f54725b105bf517ccd27845/Level%20-%202/solutions/vowelsfirst.py)&nbsp;&nbsp;&nbsp;&nbsp; |
+| [Vowels First](https://www.codingame.com/ide/demo/678960e7a53647e7e1bcffbca36f4babaac8c1) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/54fe72d8af8408af7f54725b105bf517ccd27845/Level%20-%202/solutions/vowelsfirst.py)
+| [Scrabble Words](https://www.codingame.com/ide/demo/884799420205d141eac65f107507ad7478ff91) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%202/solutions/scrabblewords.py)
+| [Calculus Pyramid](https://www.codingame.com/ide/demo/101839100c9c562a4a9619db37317687edabaee) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%202/solutions/calculuspiramid.py)
 
 
 ## Hard
