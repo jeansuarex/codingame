@@ -9,7 +9,6 @@
 | [Divide Into Teams](https://www.codingame.com/ide/demo/9783775d5c82568bf8dc2fa1d9d037a8d36818) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%201/solutions/divideintoteam.py)
 | [Chess Board](https://www.codingame.com/ide/demo/851601321556ffc699fd38b8027ba4cb1d47b9) |  &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%201/solutions/chessboard.py)
 | [Christmas Sales](https://www.codingame.com/ide/demo/72867390141e49c5a87da2363db8f5adcdd454) |  &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%201/solutions/chrissales.py)
-| [Clash Royal Match](https://www.codingame.com/ide/demo/1007302d4e25b4b9e6638e4c62e3eb60dbaf70d) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%201/solutions/clashroyalmatch.py)
 | [To-Do List](https://www.codingame.com/ide/demo/968021607d0ed35e785d9d07b9a53ca351e76b) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%201/solutions/todolist.py)
 | [Palindrome](https://www.codingame.com/ide/demo/87503869b8f9c3ae66536fddad0ba12335c3b9) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%201/solutions/Palindrome.py)
 | [Find The Char](https://www.codingame.com/ide/demo/86676252ff5194ee514e44db4f24159833644a) | &nbsp;&nbsp;&nbsp;&nbsp;[🐍](https://github.com/jeansuarex/codingame/blob/main/Level%20-%201/solutions/findthechar.py)
