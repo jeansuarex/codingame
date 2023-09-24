@@ -1,10 +1,11 @@
+import math
 s = int(input())
 p = int(input())
-t = []
+maximum = float('-inf')
+total = 0
 for i in range(p):
-    price = int(input())
-    t.append(price)
-sortedlist = sorted(t)
-discount = int(sortedlist[-1] * (s * .01))
-total = sum(sortedlist) - discount
-print(total)
+    prices = int(input())
+    if prices > maximum:
+        maximum = prices
+    total += prices
+print(math.ceil(total - (maximum * (s / 100))))
